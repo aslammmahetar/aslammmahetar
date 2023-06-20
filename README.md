@@ -1,5 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGmI0oKui0Y5Q/profile-displaybackgroundimage-shrink_350_1400/0/1685188727658?e=1692835200&v=beta&t=w_v-t4ztE0fYG7He3hPP1gMF9J0MvZKlCYF0adcMpeY"/>
-<h1 align="center">Welcome to my profile</h1>
+<h1>Hi 👋 I'm Aslam M Mahetar </h1>
+<h2 align="center">Welcome to my profile</h2>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
