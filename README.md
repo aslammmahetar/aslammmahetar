@@ -10,9 +10,10 @@
 - 💬 Ask me about MERN :- MongoDB, Express JS, React, Node JS
   
 - ⚡ Fun fact: I am a night coder 🧑‍💻
-  
 
-
+## Connect with me  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![Portfolio]()
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
