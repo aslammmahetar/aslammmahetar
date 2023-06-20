@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile</h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
