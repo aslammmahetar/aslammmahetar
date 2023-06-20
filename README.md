@@ -1,19 +1,21 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGmI0oKui0Y5Q/profile-displaybackgroundimage-shrink_350_1400/0/1685188727658?e=1692835200&v=beta&t=w_v-t4ztE0fYG7He3hPP1gMF9J0MvZKlCYF0adcMpeY"/>
 <h1 align="center">Hi 👋 I'm Aslam M Mahetar </h1>
 <h2 align="center">Welcome to my profile</h2>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently Revison of everything whatever I have learned till now
-- 🌱 I’m currently learning MERN stack
-- 💬 Ask me about MERN :- MongoDB, Express JS, React, Node JS
-- 📫 How to reach me: <a href="http://aslammmahetar.github.io/" target="_blank">Here is my Portfolio</a>
-- ⚡ Fun fact: I am a night coder 🧑‍💻
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently Revison of everything whatever I have learned till now
+
+- 🌱 I’m currently learning MERN stack
+  
+- 💬 Ask me about MERN :- MongoDB, Express JS, React, Node JS
+  
+- ⚡ Fun fact: I am a night coder 🧑‍💻
+  
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aslam-m-mahetar-b2081824b/)]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aslam-m-mahetar-b2081824b/) 
 
 # 💻 Tech Stack:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
