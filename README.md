@@ -13,7 +13,7 @@
 
 ## Connect with me  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-![Portfolio](https://badgen.net/badge/hello/world/red)
+![Portfolio](https://badgen.net/badge/PORTFOLIO/red)
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
